@@ -26,8 +26,10 @@ My trajectory is set - achieve financial independence by 40. Why? Because financ
 
 Let's link our digital realities and create a neural network of ideas! Connect with me on:
 
-🔗 [LinkedIn](Your LinkedIn Link)
-🐦 [Twitter](Your Twitter Link)
-💻 [GitHub](Your GitHub Link)
+🔗 [LinkedIn](https://www.linkedin.com/in/-roy-/)
+<!-- 🐦 [Twitter](Your Twitter Link) -->
+<!-- 💻 [GitHub](Your GitHub Link) -->
+
+
 
 ### 🤖 May Your Code Compile Swiftly and Your Dreams Soar High! 🚀
